@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+sqlalchemy
+python-dotenv
+# Agrega aquí cualquier otra dependencia que uses en tu microservicio
