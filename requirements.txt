@@ -4,4 +4,5 @@ sqlalchemy
 python-dotenv
 pandas
 mysql-connector-python
+reportlab
 # Agrega aquí cualquier otra dependencia que uses en tu microservicio
