@@ -2,4 +2,5 @@ fastapi
 uvicorn
 sqlalchemy
 python-dotenv
+pandas
 # Agrega aquí cualquier otra dependencia que uses en tu microservicio
