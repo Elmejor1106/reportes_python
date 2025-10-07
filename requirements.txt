@@ -3,4 +3,5 @@ uvicorn
 sqlalchemy
 python-dotenv
 pandas
+mysql-connector-python
 # Agrega aquí cualquier otra dependencia que uses en tu microservicio
